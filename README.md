@@ -1,2 +1,2 @@
-# project-2
+Gemstones website frontend
 MY gemstone website in HTML
